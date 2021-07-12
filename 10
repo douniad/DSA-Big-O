@@ -1,0 +1,7 @@
+if n smaller than 2 or n divided by 1 is not 0
+return false
+
+i equals 2 i smaller than n post value then increment
+if n divided by i is 0 return false
+
+idk
